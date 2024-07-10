@@ -16,7 +16,7 @@ struct ContentView: View {
                 Text("Top Songs")
                     .font(.system(size: 25))
                     .fontWeight(.bold)
-                    .foregroundColor(.blue)
+                    .foregroundColor(.black)
                     .padding(.leading,15)
                     .padding(.bottom)
                 Spacer()
